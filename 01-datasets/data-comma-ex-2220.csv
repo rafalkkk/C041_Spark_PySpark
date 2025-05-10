@@ -1,0 +1,7 @@
+OrderID,Date,Customer,Category,Product,Price,Quantity,TotalSales
+101,2025-05-01,John Doe,Electronics,Empty Quantity,1200,,1200
+102,2025-05-02,Jane Smith,Furniture,Empty Price,,4,600
+103,2025-05-02,Michael Lee,Electronics,Price=MISSING,MISSING,2,1600
+104,2025-05-03,Susan Adams,Furniture,To many fields,300,1,300,x,x,x,x,x
+105:2025-05-05:John Doe:Clothing:Separator colon:120:3:2
+106:2025-02-31,John Doe,Clothing,Nonexistent day,120,3,15

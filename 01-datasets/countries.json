@@ -1,0 +1,46 @@
+[
+  {
+    "country_name": "Germany",
+    "country_details": {
+      "name": "Germany",
+      "area_km2": 357022,
+      "population": 83555478,
+      "cities": [
+        {
+          "name": "Berlin",
+          "population": 3748000
+        },
+        {
+          "name": "Hamburg",
+          "population": 1841000
+        },
+        {
+          "name": "Munich",
+          "population": 1488200
+        }
+      ]
+    }
+  },
+  {
+    "country_name": "France",
+    "country_details": {
+      "name": "France",
+      "area_km2": 551695,
+      "population": 67508400,
+      "cities": [
+        {
+          "name": "Paris",
+          "population": 2148000
+        },
+        {
+          "name": "Lyon",
+          "population": 522969
+        },
+        {
+          "name": "Marseille",
+          "population": 870321
+        }
+      ]
+    }
+  }
+]

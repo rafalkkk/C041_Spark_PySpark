@@ -1,0 +1,6 @@
+OrderID,Date,Customer,Category,Product,Price,Quantity,TotalSales
+101,2025-05-01,John Doe,Electronics,Laptop,1200,1,1200
+102,2025-05-02,Jane Smith,Furniture,Chair,150,4,600
+103,2025-05-02,Michael Lee,Electronics,Smartphone,MISSING,2,1600
+104,2025-05-03,Susan Adams,Furniture,Table,300,1,300
+105,2025-05-04,John Doe,Clothing,Jacket,120,3,360

@@ -1,0 +1,41 @@
+{
+      "name": "Europe",
+      "area_km2": 10180000,
+      "countries": [
+        {
+          "name": "Germany",
+          "area_km2": 357022,
+          "cities": [
+            {
+              "name": "Berlin",
+              "population": 3748000
+            },
+            {
+              "name": "Hamburg",
+              "population": 1841000
+            },
+            {
+              "name": "Munich",
+              "population": 1488200
+            }
+          ]
+        },
+        {
+          "name": "France",
+          "area_km2": 551695,
+          "cities": [
+            {
+              "name": "Paris",
+              "population": 2148000
+            },
+            {
+              "name": "Lyon",
+              "population": 522969
+            },
+            {
+              "name": "Marseille",
+              "population": 870321
+            }
+          ]
+        }
+}

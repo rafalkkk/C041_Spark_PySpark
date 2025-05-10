@@ -1,0 +1,73 @@
+"Name","Length","ItalyOnly","Cities","Sea","NumberOfBridges"
+"Po",652,True,"Turin, Piacenza, Ferrara, Rovigo","Adriatic Sea",123
+"Tiber",405,True,"Rome, Terni","Tyrrhenian Sea",66
+"Arno",241,True,"Florence, Pisa","Ligurian Sea",40
+"Adda",313,False,"Lecco, Milan","Po River",63
+"Piave",220,True,"Belluno, Treviso","Adriatic Sea",19
+"Adige",410,True,"Verona, Trento","Adriatic Sea",105
+"Reno",211,True,"Bologna, Ferrara","Adriatic Sea",25
+"Isonzo",136,False,"Gorizia, Monfalcone","Adriatic Sea",18
+"Brenta",174,True,"Bassano del Grappa, Padua","Adriatic Sea",37
+"Savio",126,True,"Cesena, Ravenna","Adriatic Sea",12
+"Tagliamento",170,True,"Udine, Latisana","Adriatic Sea",22
+"Liri",158,True,"Sora, Cassino","Tyrrhenian Sea",15
+"Volturno",175,True,"Capua, Castel Volturno","Tyrrhenian Sea",30
+"Sele",64,True,"Eboli, Paestum","Tyrrhenian Sea",10
+"Tanaro",276,True,"Alessandria, Asti","Po River",45
+"Trebbia",115,True,"Piacenza, Bobbio","Po River",20
+"Serchio",111,True,"Lucca, Pisa","Ligurian Sea",18
+"Sieve",62,True,"Florence, Pontassieve","Arno River",8
+"Ombrone",161,True,"Grosseto, Siena","Tyrrhenian Sea",14
+"Chiana",42,True,"Arezzo, Chiusi","Arno River",5
+"Magra",62,True,"Pontremoli, Aulla","Ligurian Sea",7
+"Cecina",73,True,"Volterra, Cecina","Tyrrhenian Sea",9
+"Cornia",50,True,"Massa Marittima, Piombino","Tyrrhenian Sea",6
+"Fiora",80,True,"Montalto di Castro, Canino","Tyrrhenian Sea",11
+"Marta",52,True,"Tuscania, Tarquinia","Tyrrhenian Sea",7
+"Paglia",86,True,"Orvieto, Acquapendente","Tiber River",12
+"Nera",116,True,"Terni, Narni","Tiber River",15
+"Velino",90,True,"Rieti, Antrodoco","Nera River",10
+"Aniene",99,True,"Subiaco, Tivoli","Tiber River",13
+"Sacco",87,True,"Frosinone, Ceccano","Liri River",9
+"Garigliano",38,True,"Formia, Minturno","Tyrrhenian Sea",5
+"Trigno",85,True,"San Salvo, Vasto","Adriatic Sea",8
+"Biferno",84,True,"Campobasso, Termoli","Adriatic Sea",10
+"Fortore",110,True,"San Severo, Lucera","Adriatic Sea",12
+"Ofanto",170,True,"Canosa di Puglia, Barletta","Adriatic Sea",20
+"Basento",149,True,"Potenza, Matera","Ionian Sea",18
+"Agri",136,True,"Policoro, Tursi","Ionian Sea",14
+"Sinni",94,True,"Senise, Rotondella","Ionian Sea",10
+"Bradano",120,True,"Matera, Ginosa","Ionian Sea",12
+"Cavone",60,True,"Pisticci, Scanzano Jonico","Ionian Sea",6
+"Crati",91,True,"Cosenza, Corigliano-Rossano","Ionian Sea",11
+"Neto",90,True,"Crotone, Strongoli","Ionian Sea",10
+"Tacina",58,True,"Catanzaro, Botricello","Ionian Sea",7
+"Amato",59,True,"Lamezia Terme, Nicastro","Tyrrhenian Sea",8
+"Savuto",48,True,"Rogliano, Amantea","Tyrrhenian Sea",6
+"Lao",51,True,"Scalea, Papasidero","Tyrrhenian Sea",7
+"Noce",105,True,"Maratea, Trecchina","Tyrrhenian Sea",9
+"Tanagro",92,True,"Sala Consilina, Polla","Sele River",10
+"Calore Irpino",108,True,"Benevento, Avellino","Volturno River",12
+"Aterno-Pescara",152,True,"Pescara, Chieti","Adriatic Sea",20
+"Bacchiglione",118,True,"Vicenza, Padua","Adriatic Sea",15
+"Bormida",154,True,"Acqui Terme, Alessandria","Po River",18
+"Chienti",91,True,"Macerata, Civitanova Marche","Adriatic Sea",10
+"Esino",85,True,"Jesi, Ancona","Adriatic Sea",12
+"Fiume",115,True,"Fiume Veneto, Pordenone","Adriatic Sea",14
+"Lambro",130,True,"Monza, Milan","Po River",22
+"Mincio",75,True,"Mantua, Peschiera del Garda","Po River",9
+"Natisone",60,False,"Cividale del Friuli, Udine","Adriatic Sea",8
+"Oglio",280,True,"Brescia, Cremona","Po River",30
+"Piomba",55,True,"Pescara, Montesilvano","Adriatic Sea",7
+"Rubicon",80,True,"Cesena, Rimini","Adriatic Sea",10
+"Sangro",117,True,"Lanciano, Atessa","Adriatic Sea",12
+"Secchia",172,True,"Modena, Reggio Emilia","Po River",20
+"Serio",124,True,"Bergamo, Crema","Po River",15
+"Simeto",113,True,"Catania, Paternò","Ionian Sea",14
+"Sillaro",66,True,"Imola, Castel San Pietro Terme","Adriatic Sea",8
+"Stura di Demonte",115,True,"Cuneo, Fossano","Po River",12
+"Taro",126,True,"Parma, Fornovo di Taro","Po River",15
+"Ticino",248,False,"Pavia, Vigevano","Po River",25
+"Trebbia",115,True,"Piacenza, Bobbio","Po River",20
+"Vara",58,True,"La Spezia, Brugnato","Ligurian Sea",7
+"Vibrata",65,True,"Alba Adriatica, Corropoli","Adriatic Sea",8]

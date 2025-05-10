@@ -1,0 +1,19 @@
+{
+   "name": "Germany",
+   "area_km2": 357022,
+   "population": 83555478,
+   "cities": [
+     {
+       "name": "Berlin",
+       "population": 3748000
+     },
+     {
+       "name": "Hamburg",
+       "population": 1841000
+     },
+     {
+       "name": "Munich",
+       "population": 1488200
+     }
+   ]
+}

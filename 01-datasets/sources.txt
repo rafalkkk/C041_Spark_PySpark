@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/mcdonalds/nutrition-facts
+https://www.kaggle.com/datasets/thedevastator/global-shark-attack-incidents
+https://www.kaggle.com/datasets/willianoliveiragibin/grocery-inventory

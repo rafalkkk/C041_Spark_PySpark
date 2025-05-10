@@ -1,0 +1,4 @@
+name,price
+Laptop,"{\"price_netto\": 3000, \"tax\": 23}"
+Smartphone,"{\"price_netto\": 1500, \"tax\": 23}"
+Headphones,"{\"price_netto\": 250, \"tax\": 23}"
